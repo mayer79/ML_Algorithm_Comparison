@@ -4,7 +4,7 @@ Compares properties of some of the most important classes of supervised ML algor
 
 - **GLM**: Generalized linear model (e.g. logistic regression) with optional L1/L2 penalties.
 - **Neural Net**: Artificial neural net fitted by the backpropagation algorithm.
-- **Decision Trees**: A recursive set of optimal yes/no questions about the features. Often called CART ("classification and regression trees").
+- **Decision Trees**: Recursive binary partitioning. Often called CART ("classification and regression trees").
 - **Tree Boosting**: A combination of sequentially fitted shallow decision trees. Each tree tries to correct the "errors" from the previous ones. Well-known implementations are AdaBoost, XGBoost, LightGBM, and CatBoost.
 - **Random Forest**: A combination of deep randomized decision trees fitted in parallel. There are two sources of randomness: (1) In each split, only a small subset of features are considered at random. (2) Each tree is fitted on a bootstrap sample.
 - **k-Nearest Neighbour**
