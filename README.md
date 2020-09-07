@@ -19,7 +19,7 @@ Case weights          | :heavy_check_mark:         | :heavy_check_mark:     | :h
 Missing input allowed | :unamused:                 | :unamused:             | :heavy_check_mark: | :heavy_check_mark: | :unamused:         | :unamused:
 Interpretation        | :heart_eyes:               | :neutral_face:         | :heart_eyes:       | :neutral_face:     | :neutral_face:     | :neutral_face:
 Space on disk         | :heart_eyes:               | :heart_eyes:           | :heart_eyes:       | :smiley:           | :unamused:         | :unamused:
-Birth date (approx.)  | 1972 (Nelder & Wedderburn) | 1975 Backprop (Werbos) | 1984 (Breiman et al.)    | 1990 (Schapire)    | 2001 (Breiman)     | 1951 (Fix & Hodges)
+Birth date (approx.)  | 1972 (Nelder & Wedderburn) | 1974 Backprop (Werbos) | 1984 (Breiman et al.)    | 1990 (Schapire)    | 2001 (Breiman)     | 1951 (Fix & Hodges)
 
 This compilation as per September 7, 2020 is neither complete nor does it claim to be correct.
 
