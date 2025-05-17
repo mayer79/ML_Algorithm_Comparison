@@ -16,10 +16,10 @@ Easy to tune          | :neutral_face:             | :neutral_face:         | :n
 Flexible losses       | :smiley:                   | :heart_eyes:           | :smiley:           | :smiley:           | :neutral_face:     | :neutral_face:
 Regularization        | :heavy_check_mark:         | :heavy_check_mark:     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 Case weights          | :heavy_check_mark:         | :heavy_check_mark:     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-Missing input allowed | :unamused:                 | :unamused:             | :heavy_check_mark: | :heavy_check_mark: | :unamused:         | :unamused:
+Missing input allowed | :unamused:                 | :unamused:             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :unamused:
 Interpretation        | :heart_eyes:               | :neutral_face:         | :heart_eyes:       | :neutral_face:     | :neutral_face:     | :neutral_face:
 Space on disk         | :heart_eyes:               | :heart_eyes:           | :heart_eyes:       | :smiley:           | :unamused:         | :unamused:
 Birth date (approx.)  | 1972 (Nelder & Wedderburn) | 1974 Backprop (Werbos) | 1984 (Breiman et al.)    | 1990 (Schapire)    | 2001 (Breiman)     | 1951 (Fix & Hodges)
 
-This compilation as per September 7, 2020 is neither complete nor does it claim to be correct.
+This compilation as per May 2025 is neither complete nor does it claim to be correct.
 
